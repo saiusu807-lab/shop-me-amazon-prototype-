@@ -1,2 +1,4 @@
 # shop-me-amazon-prototype-
 it is a prototype of amazon
+
+The E-Commerce Order Management System is designed to manage core e-commerce order operations through a centralized relational database. The system stores and manages customer, product, vendor, order, order-item and payment information. The project addresses problems identified in modern e-commerce platforms such as inconsistent order processing states, inventory overselling, uncoordinated payment verification, data redundancy and inefficient order lookup. The proposed database follows a normalized relational structure up to Third Normal Form (3NF) and uses primary keys, foreign keys, unique constraints, NOT NULL conditions and suitable CHECK constraints to support data integrity. The design also provides a foundation for transactional integrity, stock deduction, multi-item order processing and SQL-based reporting. 
